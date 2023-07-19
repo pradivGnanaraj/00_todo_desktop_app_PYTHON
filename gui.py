@@ -1,6 +1,6 @@
 import time
 import os
-from modules import functions
+import functions
 import PySimpleGUI as PySG
 
 if not os.path.exists("todos.txt"):
