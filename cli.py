@@ -1,4 +1,4 @@
-from modules import funct
+import functions
 import time
 
 now = time.strftime("%b %d, %Y :::Time::  %H:%M:%S ")
