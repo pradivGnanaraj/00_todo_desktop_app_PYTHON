@@ -60,5 +60,3 @@ The architecture of the To-Do application consists of four main components:
 The To-Do application provides users with multiple interfaces to manage their tasks conveniently. Users can choose between CLI, GUI, and web-based interactions to manage their to-do lists effectively.
 
 ---
-
-**Note:** This document provides an overview of the To-Do application's system design. It is intended to guide developers and contributors in understanding the application's architecture and components.
